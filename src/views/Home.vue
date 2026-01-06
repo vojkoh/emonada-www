@@ -44,7 +44,7 @@
             Learn More
           </router-link>
           <a
-            href="https://github.com"
+            href="https://github.com/vojkoh/emonada-www"
             class="bg-gray-200 text-gray-800 px-8 py-3 rounded-lg font-semibold hover:bg-gray-300 transition-colors"
           >
             View on GitHub
