@@ -1,0 +1,7 @@
+version: '3.8'
+services:
+  web:
+    image: emonada-www:latest
+    ports:
+      - "3404:80"
+    restart: unless-stopped
