@@ -1,7 +1,7 @@
 version: '3.8'
 services:
   web:
-    image: emonada-www:latest
+    image: banana4242/emonada-www-nginx:latest
     ports:
       - "3404:80"
     restart: unless-stopped
